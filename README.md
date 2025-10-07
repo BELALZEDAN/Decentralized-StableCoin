@@ -266,26 +266,6 @@ We welcome contributions! Please see our [Contributing Guidelines](.github/CONTR
 - Update documentation accordingly
 - Ensure all tests pass before submitting PR
 
-## 📚 Documentation
-
-- [Technical Specification](docs/SPECIFICATION.md)
-- [API Reference](docs/API.md)
-- [Deployment Guide](docs/DEPLOYMENT.md)
-- [Security Audit](docs/SECURITY.md)
-
-## 🐛 Troubleshooting
-
-Common issues and solutions:
-
-**Issue**: `Error: Failed to deploy contract`
-**Solution**: Ensure sufficient gas and valid RPC URL
-
-**Issue**: `Error: Price feed stale`
-**Solution**: Check Chainlink price feed address and network
-
-**Issue**: `Error: Insufficient collateral`
-**Solution**: Verify collateral ratio meets minimum 150%
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -298,10 +278,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-<div align="center">
-
-**Built with 🔥 by the DeFi community**
-
-*For educational purposes. Always audit code before production use.*
-
-</div>
